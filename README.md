@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdoulaye01</h1>
-<h3 align="center">Data and Technical Operations Analyst with experience transforming complex data into actionable business solutions. India</h3>
+<h3 align="center">Data and Technical Operations Analyst with experience transforming complex data into actionable business solutions.</h3>
 
 - 🔭 I’m currently working on [Project ETL => Python & SQL & PowerBI](https://github.com/Abdoulaye01/Etl-project-python-sql-bi002.git)
 
